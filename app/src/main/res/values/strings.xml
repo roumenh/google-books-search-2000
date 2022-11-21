@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Goggle Books Search</string>
+    <string name="search_button">Search</string>
+    <string name="books_overview">Search for books</string>
+    <string name="book_detail">Book detail</string>
+    <string name="publisheddate">Published </string>
+    <string name="buy_button">Buy for </string>
+    <string name="enter_author_name">Enter author name</string>
+    <string name="book_thumbnail">Book thumbnail</string>
+</resources>
